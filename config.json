@@ -1,0 +1,24 @@
+{
+  "botName": "LegSpyXcel",
+  "prefix": ".",
+  "owners": [
+    {
+      "name": "jaden afrix",
+      "number": "263784812740"
+    },
+    {
+      "name": "Legend Tech",
+      "number": "2347048929112"
+    }
+  ],
+  "channelButtons": [
+    {
+      "name": "Wachannel1",
+      "url": "https://whatsapp.com/channel/0029Vb5a5G4IHphKUhO9hx0d"
+    },
+    {
+      "name": "Wachannel2",
+      "url": "https://whatsapp.com/channel/0029VbAxoHNF6sn7hhz2Ss24"
+    }
+  ]
+}

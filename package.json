@@ -1,0 +1,23 @@
+{
+  "name": "legspyxcel",
+  "version": "1.0.0",
+  "description": "LegSpyXcel WhatsApp Bot by Jaden Afrix & Legend Tech",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "baileys",
+    "legspyxcel"
+  ],
+  "author": "Jaden Afrix & Legend Tech",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.2",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "pino": "^8.14.1"
+  }
+}
